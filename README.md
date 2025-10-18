@@ -90,7 +90,8 @@ void client(int wfd, int rfd) {
 
 ## OUTPUT
 
-<img width="428" height="163" alt="image" src="https://github.com/user-attachments/assets/2d3c7117-ed6b-4d78-bbe4-1a78630abbb0" />
+<img width="408" height="317" alt="image" src="https://github.com/user-attachments/assets/d8e99ea8-545d-45c3-a57e-60f9ec1aaffd" />
+
 
  
 
@@ -185,7 +186,8 @@ void client() {
 
 ## OUTPUT
 
-<img width="577" height="358" alt="image" src="https://github.com/user-attachments/assets/7f8114e6-9cb6-404c-b233-6909e8a6312c" />
+<img width="392" height="313" alt="image" src="https://github.com/user-attachments/assets/d4137b58-2729-4667-81dc-06cc7a721066" />
+
 
 # RESULT:
 The program is executed successfully.
